@@ -1,4 +1,4 @@
-# DataAnalytics-Assessment
+# Data Analytics-Assessment
 
 ## Q1: High-Value Customers
 - Approach: Used double join on plans_plan to detect both savings and investment plans. Aggregated deposits using savings_savingsaccount.
